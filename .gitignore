@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+venv311/
+
+# IDE
+.vscode/
+.idea/
+
+# Model files
+*.h5
+
+# Generated files
+*.png
+data/
+masks/
+model_checkpoints/
